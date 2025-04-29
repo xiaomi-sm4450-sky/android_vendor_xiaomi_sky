@@ -1131,6 +1131,9 @@ PRODUCT_PACKAGES += \
     sensors.touch \
     libasphere \
     libshoebox \
+    libqcbassboost \
+    libqcreverb \
+    libqcvirt \
     vendor.display.color@1.0 \
     vendor.display.color@1.1 \
     vendor.display.color@1.2 \
