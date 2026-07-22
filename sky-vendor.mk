@@ -712,7 +712,6 @@ PRODUCT_PACKAGES += \
     camera.qcom \
     com.dsi.ant@1.0-impl \
     com.qti.chi.override \
-    consumerir.default \
     fingerprint.fpc.default \
     fingerprint.goodix.default \
     vendor.qti.esepowermanager@1.1-impl \
